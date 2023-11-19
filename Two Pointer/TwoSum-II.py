@@ -1,3 +1,4 @@
+# Two pointers apprach
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
         i = 0
