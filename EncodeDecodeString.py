@@ -17,3 +17,5 @@ class solution:
       i = e + 1 + size
       result.append(word)
     return result
+
+# Time complexity - O(n)
