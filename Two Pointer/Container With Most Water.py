@@ -14,4 +14,5 @@ class Solution:
             elif height[left] > height[right]:
                 right -= 1
         return max_area
+
 # Time complexity - O(n)
