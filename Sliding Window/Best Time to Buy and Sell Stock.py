@@ -13,3 +13,4 @@ class Solution:
                     max_profit = profit
             right += 1
         return max_profit
+# Time Complexity - O(n)
