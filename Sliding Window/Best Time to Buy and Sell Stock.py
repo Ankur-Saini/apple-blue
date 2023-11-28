@@ -15,5 +15,3 @@ class Solution:
         return max_profit
 
 # Time Complexity - O(n)
-
-
