@@ -6,3 +6,9 @@ class Solution:
             if target - num in num_dict:
                 return [num_dict[target - num] + 1, i + 1]
             num_dict[num] = i
+
+
+
+
+
+
