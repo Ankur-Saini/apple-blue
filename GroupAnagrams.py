@@ -8,3 +8,6 @@ class Solution:
             else:
                 anagrams[sorted_word].append(word)
         return list(anagrams.values())
+
+
+
