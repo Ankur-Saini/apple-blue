@@ -9,3 +9,4 @@ class Solution:
                 anagrams[sorted_word].append(word)
         return list(anagrams.values())
 
+
