@@ -6,5 +6,3 @@ class Solution:
                 string += char.lower()
         print(string)
         return string == string[::-1]
-
-
