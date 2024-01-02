@@ -8,4 +8,3 @@ class Solution:
         return string == string[::-1]
 
 
-
