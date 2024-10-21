@@ -1,5 +1,4 @@
 
-
 class solution:
   def encode(self, strs):
     result = ""
